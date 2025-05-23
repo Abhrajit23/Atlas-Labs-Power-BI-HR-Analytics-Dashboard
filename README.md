@@ -93,14 +93,15 @@ With this solution, HR executives can:
 
 ## 📷 Dashboard Previews
 
-| Page                | Screenshot                                                                                                   |
-| ------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Overview            | ![Overview](https://github.com/Abhrajit23/your-repo-path/blob/main/Screenshot%202025-05-22%20230028.png)     |
-| Demographics        | ![Demographics](https://github.com/Abhrajit23/your-repo-path/blob/main/Screenshot%202025-05-22%20230046.png) |
-| Performance Tracker | ![Performance](https://github.com/Abhrajit23/your-repo-path/blob/main/Screenshot%202025-05-22%20230106.png)  |
-| Attrition           | ![Attrition](https://github.com/Abhrajit23/your-repo-path/blob/main/Screenshot%202025-05-22%20230119.png)    |
 
----
+
+| Page                | Screenshot                                                                                                                           |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Overview            | ![Overview](https://github.com/Abhrajit23/Atlas-Labs-Power-BI-HR-Analytics-Dashboard/blob/main/Overview.png)                         |
+| Demographics        | ![Demographics](https://github.com/Abhrajit23/Atlas-Labs-Power-BI-HR-Analytics-Dashboard/blob/main/Demographics.png)                 |
+| Performance Tracker | ![Performance Tracker](https://github.com/Abhrajit23/Atlas-Labs-Power-BI-HR-Analytics-Dashboard/blob/main/Performance%20Tracker.png) |
+| Attrition           | ![Attrition](https://github.com/Abhrajit23/Atlas-Labs-Power-BI-HR-Analytics-Dashboard/blob/main/Attrition.png)                       |
+
 
 ## 📝 How to Use
 
